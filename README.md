@@ -10,7 +10,7 @@
 
 **Шаблон для файла конфигурации файла database.ini для подключения к БД:**
 - [postgresql]
-- host=<HOST>
-- user=<USER>
-- password=<PASSWORD>
-- port=<PORT>
+- host= <HOST>
+- user= <USER>
+- password= <PASSWORD>
+- port= <PORT>
